@@ -154,7 +154,7 @@
 # print(numbers)
 # for i in numbers:
 #     i *= 2
-#     print(i)
+#     print(list([i]))
 # print(numbers)
 # ---------------------------------------------------------------------------------------------
 # colors = ['red', 'green', 'blue', 'yellow', 'white', 'black']
